@@ -1,1 +1,2 @@
 # PRODIGY_CS_01
+This Python program implements a Caesar Cipher for encrypting and decrypting messages. It shifts each letter in the plaintext by a fixed number of positions in the alphabet. The user inputs a message and a shift value (key) between 1 and 25. The program then encrypts the message using the Caesar Cipher technique and decrypts the encrypted message to verify correctness. The program handles both uppercase and lowercase letters, keeping their case unchanged, and ignores non-alphabetical characters. The shift value must be an integer between 1 and 25
